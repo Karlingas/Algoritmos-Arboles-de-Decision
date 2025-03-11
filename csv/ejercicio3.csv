@@ -1,4 +1,5 @@
 Edad,Ingresos,Conciencia_Ambiental,Infraestructura_Carga,Adopta_VE
+27,'altos','bajo','regular',0
 64,'medios','alto','mala',1
 33,'bajos','bajo','buena',1
 66,'medios','alto','mala',0
@@ -18,6 +19,5 @@ Edad,Ingresos,Conciencia_Ambiental,Infraestructura_Carga,Adopta_VE
 42,'bajos','alto','buena',1
 50,'altos','bajo','regular',1
 26,'altos','alto','mala',0
-27,'altos','bajo','regular',0
 
 67,'medios','alto','buena',1
